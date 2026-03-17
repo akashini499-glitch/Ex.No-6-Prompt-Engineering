@@ -35,8 +35,8 @@ print(sentiment)
 if sentiment['compound'] > 0:
     print("\nInsight: The review is positive and suitable for marketing promotion.")
 else:
-    print("\nInsight: The review tone is neutral or negative.")```
-
+    print("\nInsight: The review tone is neutral or negative.")
+```
 # Result: 
 <img width="1055" height="253" alt="Screenshot 2026-03-17 092421" src="https://github.com/user-attachments/assets/15c9d7b3-1bb6-41a1-a60f-9380954766b0" />
 
